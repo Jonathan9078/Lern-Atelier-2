@@ -8,3 +8,8 @@
 ### Ziele
 1. Ich schaffen an meine Freifach C++ weiter
 2. Ich schaffe wenn mir noch zeit bleibt and meinem Spiel weiter
+
+## 3. Tag, 6.11.2026
+### Ziele
+1. Ich schaffe an meinem Projekt weiter
+2. Ich schaffe auch noch an meinem Freifach C++ weiter
