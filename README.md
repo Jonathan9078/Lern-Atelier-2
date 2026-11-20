@@ -18,3 +18,8 @@
 ### Ziele
 1. Ich schaffe an meinem Projekt weiter
 2. Ich schaffe auch an meinem Freifach C++ weiter
+
+## 5. Tag, 20.11.2026
+### Ziele
+1. Ich schaffen an meine Freifach C++ weiter
+2. ich versuche mit dem ersten Kapitel fertig zu werden in meine Freifach
